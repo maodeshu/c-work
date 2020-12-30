@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\Hey\Desktop\俄罗斯方块\ConsoleApplication1\ConsoleApplication1\main.cpp(9,31): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Hey\Desktop\俄罗斯方块\ConsoleApplication1\ConsoleApplication1\main.cpp(10,31): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Hey\Desktop\俄罗斯方块\ConsoleApplication1\ConsoleApplication1\main.cpp(148,39): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Hey\Desktop\俄罗斯方块\ConsoleApplication1\ConsoleApplication1\main.cpp(148,31): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Hey\Desktop\俄罗斯方块\ConsoleApplication1\ConsoleApplication1\main.cpp(156,62): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Hey\Desktop\俄罗斯方块\ConsoleApplication1\ConsoleApplication1\main.cpp(156,42): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Hey\Desktop\俄罗斯方块\ConsoleApplication1\ConsoleApplication1\main.cpp(229,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  ConsoleApplication1.vcxproj -> C:\Users\Hey\Desktop\俄罗斯方块\ConsoleApplication1\Debug\ConsoleApplication1.exe
